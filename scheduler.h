@@ -30,9 +30,7 @@ class Scheduler {
       return index;
     }
 
-    void begin() {
-    }
-
+ 
     void run(unsigned long now) {
       Task* task;
 
